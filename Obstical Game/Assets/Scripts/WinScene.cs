@@ -5,6 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class WinScene : MonoBehaviour
 {
+    public void Next(){
+        SceneManager.LoadScene("2PlayerLevel2");
+    }
     public void Menu(){
         SceneManager.LoadScene("MainMenu");
     }

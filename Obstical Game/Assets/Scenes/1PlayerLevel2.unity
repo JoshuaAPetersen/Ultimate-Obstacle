@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 69e10e886d52d20478f9ed5424126be8, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.26530764, g: 0.09746974, b: 0.01193476, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -820,7 +820,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh297508
+  m_Name: pb_Mesh326596
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -3856,8 +3856,8 @@ MonoBehaviour:
   ball: {fileID: 943884056129944951, guid: 728a8717f6b903b4781ca8d0948adfc1, type: 3}
   spawnRate: 1
   spawnDelay: 0.2
-  rangX1: -8
-  rangX2: 8
+  rangX1: -8.5
+  rangX2: 8.5
 --- !u!4 &968514543
 Transform:
   m_ObjectHideFlags: 0
@@ -3959,7 +3959,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh297536
+  m_Name: pb_Mesh326666
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5357,7 +5357,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh297496
+  m_Name: pb_Mesh326584
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5943,7 +5943,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-257630
+  m_Name: pb_Mesh326534
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6107,7 +6107,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh297522
+  m_Name: pb_Mesh404044
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2

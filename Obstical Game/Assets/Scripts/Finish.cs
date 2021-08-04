@@ -18,10 +18,10 @@ public class Finish : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
         if(other.tag == "Player1"){
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene("BlueWin");
         }
         if(other.tag == "Player2"){
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene("GoldWin");
         }
     }
 }
